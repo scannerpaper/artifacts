@@ -10,7 +10,7 @@ Dataset directory includes differnet Captcha schemes used for the train and test
 ## Case Study: Credential Stuffing
 In the first case study, we have used the Captcha solver on a sample login page and successfully logged into the page.
 
-## Case-Study 2
+## Case Study: Log4J Exploitation
 The second case study shows that how the same crawler can be minimally modified which enables is to exploit a sample java application using the log4j vulnerability.
 
 ## In-Application Sensors
