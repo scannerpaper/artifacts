@@ -7,7 +7,7 @@ The Captcha solver is a trained object detection model able to crack differnet C
 ## Dataset
 Dataset directory includes differnet Captcha schemes used for the train and test process of the Captcha solver. We have included the data we generated ourselves and added links to those from other research.
 
-## Case-Study 1
+## Case Study: Credential Stuffing
 In the first case study, we have used the Captcha solver on a sample login page and successfully logged into the page.
 
 ## Case-Study 2
