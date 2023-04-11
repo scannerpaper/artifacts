@@ -13,8 +13,5 @@ In the first case study, we have used the Captcha solver on a sample login page 
 ## Case Study: Log4J Exploitation
 The second case study shows that how the same crawler can be minimally modified which enables is to exploit a sample java application using the log4j vulnerability.
 
-## In-Application Sensors
-This directory includes the codes that can be used to track user interactions with a web page. We use a client-server architecture where the tracker works as the client and sends the recorded events to the server though a web socket. 
-
 ## Custom Crawler
 Custom crawler includes different scenarios we have implemented to interact with a webpage as a bot. The results are then used to compare with human interactions and other bots.
